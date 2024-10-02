@@ -569,7 +569,7 @@
   width: 311px;
   min-height: 64px;
   height: auto;
-  margin: 25px 971px 0 -42px;
+  margin: 26px auto 0 calc(((100% - 1140px) / 2)  + -93px);
 }
 
 .u-section-4 .u-text-1 {
@@ -579,7 +579,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   font-size: 2.25rem;
-  margin: 0 0 0 auto;
+  margin: 0 auto 0 187px;
 }
 
 .u-section-4 .u-text-2 {
@@ -606,7 +606,7 @@
 
 .u-section-4 .u-list-1 {
   width: 1140px;
-  margin: 16px auto 0;
+  margin: 15px auto 0;
 }
 
 .u-section-4 .u-repeater-1 {
@@ -810,7 +810,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: -232px 0 60px auto;
+  margin: -232px 0 57px auto;
   padding: 0;
 }
 
@@ -822,6 +822,7 @@
   .u-section-4 .u-group-elements-1 {
     margin-top: 42px;
     margin-right: 771px;
+    margin-left: calc(((100% - 940px) / 2) + -93px);
   }
 
   .u-section-4 .u-list-1 {
@@ -909,7 +910,8 @@
   }
 
   .u-section-4 .u-group-elements-1 {
-    margin-right: 451px;
+    margin-right: auto;
+    margin-left: calc(((100% - 720px) / 2) + -93px);
   }
 
   .u-section-4 .u-list-1 {
@@ -974,6 +976,7 @@
     min-height: 57px;
     margin-top: 34px;
     margin-right: 304px;
+    margin-left: calc(((100% - 540px) / 2) + -93px);
   }
 
   .u-section-4 .u-text-1 {
@@ -1077,7 +1080,7 @@
   .u-section-4 .u-group-elements-1 {
     min-height: 50px;
     margin-top: 33px;
-    margin-right: 71px;
+    margin-right: auto;
     margin-left: calc(((100% - 340px) / 2)  + -94px);
   }
 
@@ -1139,7 +1142,7 @@
   }
 
   .u-section-4 .u-icon-8 {
-    margin-bottom: 60px;
+    margin-bottom: 57px;
   }
 } .u-section-5 {
   background-image: url("images/Dlaba-Background-6.jpg");
