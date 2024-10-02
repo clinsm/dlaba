@@ -188,6 +188,11 @@
 .u-section-2 .u-icon-2 {
   width: 150px;
   height: 20px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
   margin: 66px auto 0 0;
   padding: 0;
 }
@@ -195,6 +200,11 @@
 .u-section-2 .u-icon-3 {
   width: 61px;
   height: 64px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
   margin: -42px auto 0 240px;
   padding: 0;
 }
@@ -202,6 +212,11 @@
 .u-section-2 .u-icon-4 {
   width: 150px;
   height: 30px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
   margin: -47px 30px 0 auto;
   padding: 0;
 }
