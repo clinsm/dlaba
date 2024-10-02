@@ -44427,6 +44427,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-icon-2 {
     width: calc(((100% - 340px) / 2)  + 183px);
+    height: NaNpx;
     margin-top: 571px;
   }
 
